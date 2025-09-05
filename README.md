@@ -2,7 +2,7 @@
 
 
 
-##  Demo Video  
+##  Demo Video  For faster viewing, please play it at ****1.5x speed****.
 
 We have included a full working demo on YouTube:  
 👉 [Watch the Demo](https://youtu.be/HglVBrtxEj4)  
